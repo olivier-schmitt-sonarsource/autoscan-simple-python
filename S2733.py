@@ -1,6 +1,7 @@
 
 '''file contains issues for S2733 as they were not found in existring files'''
 
+
 class MyClass1(object):
     'doc'
     def __enter__(self):
