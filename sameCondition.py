@@ -2,6 +2,7 @@
 param = 2
 
 
+
 if param == 1:
     print(1)
 elif param == 2:
