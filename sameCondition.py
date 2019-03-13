@@ -1,8 +1,6 @@
 '''file contains issues for S1862 as they were not found in existring files'''
 param = 2
 
-
-
 if param == 1:
     print(1)
 elif param == 2:
