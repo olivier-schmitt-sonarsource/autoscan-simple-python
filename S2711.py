@@ -20,6 +20,3 @@ def func():
 
 
 yield True
-
-
-
