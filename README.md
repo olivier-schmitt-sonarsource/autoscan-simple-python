@@ -1,4 +1,4 @@
 # autoscan-simple-python
 
 
-Test new profile
+Test new profile and extended rules
