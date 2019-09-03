@@ -1,8 +1,1 @@
-# autoscan-simple-python
-
-
-Test new profile and extended rules
-
-Branch 1.
-test
-test
+Branch 1
