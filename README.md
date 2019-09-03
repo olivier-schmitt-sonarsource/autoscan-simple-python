@@ -3,5 +3,4 @@
 
 Test new profile and extended rules
 
-Branch 1.
-test
+Branch 1
